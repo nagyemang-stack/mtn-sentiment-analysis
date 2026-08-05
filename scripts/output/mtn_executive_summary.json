@@ -1,0 +1,24 @@
+{
+  "project": "MTN Ghana Data Depletion Sentiment Analysis",
+  "author": "Caleb Agyemang",
+  "data_points": 10,
+  "total_reach": 611000,
+  "date_range": "2025-01-15 to 2026-02-14",
+  "sentiment_breakdown": {
+    "negative": 4,
+    "defensive": 1,
+    "neutral": 2,
+    "positive": 3
+  },
+  "key_finding": "Negative sentiment dominated early coverage (60%), but corporate response and regulatory intervention shifted public perception toward constructive by Q4 2025.",
+  "methodology": "Public event timeline construction from news coverage, social media, regulatory filings, and corporate announcements. Sentiment scored on -1 to +1 scale.",
+  "data_sources": [
+    "Graphic Online",
+    "MyJoyOnline",
+    "Citi Business News",
+    "Reddit r/ghana",
+    "NCA Publications",
+    "MTN Annual Reports",
+    "Ministry of Communications Press Releases"
+  ]
+}
